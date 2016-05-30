@@ -6,7 +6,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
-import android.widget.Toast;
 
 import com.rabbit.mvptest.R;
 import com.rabbit.mvptest.addUser.presenter.IUserPresenter;

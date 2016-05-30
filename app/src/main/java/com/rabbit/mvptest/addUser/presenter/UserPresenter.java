@@ -56,6 +56,7 @@ public class UserPresenter implements IUserPresenter{
 
     @Override
     public void onDestroy() {
+        iUserView = null;
 
     }
 }
